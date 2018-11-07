@@ -1,0 +1,702 @@
+[
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 7,
+    "Product_ID": "A",
+    "Rand_Sort": 0.96365317
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 10,
+    "Product_ID": "A",
+    "Rand_Sort": 0.50814251
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 4,
+    "Product_ID": "A",
+    "Rand_Sort": 0.745797587
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 3,
+    "Product_ID": "D",
+    "Rand_Sort": 0.026803969
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 9,
+    "Product_ID": "A",
+    "Rand_Sort": 0.314899701
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 6,
+    "Product_ID": "D",
+    "Rand_Sort": 0.323709592
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 8,
+    "Product_ID": "C",
+    "Rand_Sort": 0.805702789
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 5,
+    "Product_ID": "E",
+    "Rand_Sort": 0.9630286
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 10,
+    "Product_ID": "D",
+    "Rand_Sort": 0.585361182
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 3,
+    "Product_ID": "A",
+    "Rand_Sort": 0.528725778
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 10,
+    "Product_ID": "C",
+    "Rand_Sort": 0.983602001
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 9,
+    "Product_ID": "C",
+    "Rand_Sort": 0.82474654
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 4,
+    "Product_ID": "C",
+    "Rand_Sort": 0.656881132
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 5,
+    "Product_ID": "A",
+    "Rand_Sort": 0.93593833
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 1,
+    "Product_ID": "C",
+    "Rand_Sort": 0.052188281
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 9,
+    "Product_ID": "B",
+    "Rand_Sort": 0.681210322
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 8,
+    "Product_ID": "B",
+    "Rand_Sort": 0.884730546
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 2,
+    "Product_ID": "D",
+    "Rand_Sort": 0.285246887
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 6,
+    "Product_ID": "B",
+    "Rand_Sort": 0.480542477
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 1,
+    "Product_ID": "D",
+    "Rand_Sort": 0.161861841
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 10,
+    "Product_ID": "C",
+    "Rand_Sort": 0.708597622
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 9,
+    "Product_ID": "E",
+    "Rand_Sort": 0.8589866
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 2,
+    "Product_ID": "E",
+    "Rand_Sort": 0.61501776
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 6,
+    "Product_ID": "B",
+    "Rand_Sort": 0.295079611
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 2,
+    "Product_ID": "C",
+    "Rand_Sort": 0.041288709
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 6,
+    "Product_ID": "A",
+    "Rand_Sort": 0.648379346
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 5,
+    "Product_ID": "D",
+    "Rand_Sort": 0.873306482
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 10,
+    "Product_ID": "B",
+    "Rand_Sort": 0.67064882
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 6,
+    "Product_ID": "C",
+    "Rand_Sort": 0.666284872
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 8,
+    "Product_ID": "C",
+    "Rand_Sort": 0.014445662
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 7,
+    "Product_ID": "D",
+    "Rand_Sort": 0.473951238
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 5,
+    "Product_ID": "B",
+    "Rand_Sort": 0.466039176
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 10,
+    "Product_ID": "D",
+    "Rand_Sort": 0.656260759
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 5,
+    "Product_ID": "D",
+    "Rand_Sort": 0.382379218
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 5,
+    "Product_ID": "B",
+    "Rand_Sort": 0.540129106
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 2,
+    "Product_ID": "A",
+    "Rand_Sort": 0.956854512
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 7,
+    "Product_ID": "E",
+    "Rand_Sort": 0.928938081
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 10,
+    "Product_ID": "E",
+    "Rand_Sort": 0.528407283
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 4,
+    "Product_ID": "B",
+    "Rand_Sort": 0.82661478
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 8,
+    "Product_ID": "D",
+    "Rand_Sort": 0.072820143
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 3,
+    "Product_ID": "B",
+    "Rand_Sort": 0.544389547
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 1,
+    "Product_ID": "E",
+    "Rand_Sort": 0.984443122
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 2,
+    "Product_ID": "D",
+    "Rand_Sort": 0.530966483
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 10,
+    "Product_ID": "E",
+    "Rand_Sort": 0.487154696
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 3,
+    "Product_ID": "E",
+    "Rand_Sort": 0.216747655
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 10,
+    "Product_ID": "B",
+    "Rand_Sort": 0.537919617
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 1,
+    "Product_ID": "A",
+    "Rand_Sort": 0.789597463
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 9,
+    "Product_ID": "E",
+    "Rand_Sort": 0.90440694
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 7,
+    "Product_ID": "B",
+    "Rand_Sort": 0.186510596
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 7,
+    "Product_ID": "D",
+    "Rand_Sort": 0.103290446
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 4,
+    "Product_ID": "D",
+    "Rand_Sort": 0.811633076
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 8,
+    "Product_ID": "A",
+    "Rand_Sort": 0.397691191
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 7,
+    "Product_ID": "E",
+    "Rand_Sort": 0.593713083
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 5,
+    "Product_ID": "C",
+    "Rand_Sort": 0.631246246
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 3,
+    "Product_ID": "A",
+    "Rand_Sort": 0.790882699
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 5,
+    "Product_ID": "C",
+    "Rand_Sort": 0.974941639
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 8,
+    "Product_ID": "E",
+    "Rand_Sort": 0.662236496
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 7,
+    "Product_ID": "B",
+    "Rand_Sort": 0.094071676
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 7,
+    "Product_ID": "C",
+    "Rand_Sort": 0.288947949
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 2,
+    "Product_ID": "A",
+    "Rand_Sort": 0.813922989
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 10,
+    "Product_ID": "A",
+    "Rand_Sort": 0.482641796
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 1,
+    "Product_ID": "B",
+    "Rand_Sort": 0.848636071
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 4,
+    "Product_ID": "E",
+    "Rand_Sort": 0.156622157
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 6,
+    "Product_ID": "A",
+    "Rand_Sort": 0.457086983
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 7,
+    "Product_ID": "A",
+    "Rand_Sort": 0.995012205
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 2,
+    "Product_ID": "E",
+    "Rand_Sort": 0.575111995
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 9,
+    "Product_ID": "C",
+    "Rand_Sort": 0.012685437
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 3,
+    "Product_ID": "C",
+    "Rand_Sort": 0.092728144
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 1,
+    "Product_ID": "B",
+    "Rand_Sort": 0.858917213
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 4,
+    "Product_ID": "D",
+    "Rand_Sort": 0.936732139
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 4,
+    "Product_ID": "C",
+    "Rand_Sort": 0.385585017
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 1,
+    "Product_ID": "D",
+    "Rand_Sort": 0.162238199
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 1,
+    "Product_ID": "C",
+    "Rand_Sort": 0.446102834
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 2,
+    "Product_ID": "C",
+    "Rand_Sort": 0.446212437
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 3,
+    "Product_ID": "B",
+    "Rand_Sort": 0.373877427
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 7,
+    "Product_ID": "C",
+    "Rand_Sort": 0.062290676
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 9,
+    "Product_ID": "A",
+    "Rand_Sort": 0.253375987
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 9,
+    "Product_ID": "B",
+    "Rand_Sort": 0.416988968
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 4,
+    "Product_ID": "B",
+    "Rand_Sort": 0.565754326
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 8,
+    "Product_ID": "A",
+    "Rand_Sort": 0.492118698
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 4,
+    "Product_ID": "A",
+    "Rand_Sort": 0.678699576
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 9,
+    "Number_Sequence": 5,
+    "Product_ID": "A",
+    "Rand_Sort": 0.292271451
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 6,
+    "Number_Sequence": 6,
+    "Product_ID": "C",
+    "Rand_Sort": 0.104882288
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 8,
+    "Number_Sequence": 2,
+    "Product_ID": "B",
+    "Rand_Sort": 0.567008512
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 8,
+    "Product_ID": "D",
+    "Rand_Sort": 0.961534013
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 2,
+    "Product_ID": "B",
+    "Rand_Sort": 0.7375386
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 5,
+    "Product_ID": "E",
+    "Rand_Sort": 0.326806474
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 9,
+    "Product_ID": "D",
+    "Rand_Sort": 0.269069669
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 10,
+    "Number_Sequence": 1,
+    "Product_ID": "A",
+    "Rand_Sort": 0.139818517
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 4,
+    "Number_Sequence": 6,
+    "Product_ID": "D",
+    "Rand_Sort": 0.114605424
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 9,
+    "Product_ID": "D",
+    "Rand_Sort": 0.860932235
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 8,
+    "Product_ID": "E",
+    "Rand_Sort": 0.405030835
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 5,
+    "Number_Sequence": 3,
+    "Product_ID": "C",
+    "Rand_Sort": 0.100869092
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 6,
+    "Product_ID": "E",
+    "Rand_Sort": 0.213067318
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 3,
+    "Product_ID": "E",
+    "Rand_Sort": 0.419339721
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 7,
+    "Number_Sequence": 8,
+    "Product_ID": "B",
+    "Rand_Sort": 0.033744854
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 3,
+    "Number_Sequence": 3,
+    "Product_ID": "D",
+    "Rand_Sort": 0.376009096
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 4,
+    "Product_ID": "E",
+    "Rand_Sort": 0.254362984
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 2,
+    "Number_Sequence": 1,
+    "Product_ID": "E",
+    "Rand_Sort": 0.617488779
+  },
+  {
+    "Bay_Number": 1,
+    "Shelf_Number": 1,
+    "Number_Sequence": 6,
+    "Product_ID": "E",
+    "Rand_Sort": 0.473027399
+  }
+]
